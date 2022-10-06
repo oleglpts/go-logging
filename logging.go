@@ -1,4 +1,5 @@
 // Package logging can be used for logging in json format
+// TODO: format configuration
 package logging
 
 import (
